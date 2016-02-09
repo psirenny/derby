@@ -16,7 +16,7 @@
     "derby-parsing": "^0.5.0",
     "derby-templates": "^0.4.0",
     "html-util": "^0.2.1",
-    "racer": "^0.8.0",
+    "racer": "git://github.com/psirenny/racer.git#919dbc6edffd2e1fe30d32d4f7fa39cf55916740",
     "resolve": "^1.1.6",
     "through": "^2.3.4",
     "tracks": "^0.5.0"
